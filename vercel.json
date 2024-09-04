@@ -2,7 +2,7 @@
     "functions": {
       "server.js": {
         "memory": 1024,
-        "includeFiles": "db.json"
+        "maxDuration": 10
       }
     },
     "rewrites": [
