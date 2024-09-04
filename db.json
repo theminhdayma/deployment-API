@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Nguyễn Văn A",
+            "gender": 1,
+            "email": "nva@gmail.com",
+            "address": "Hà Nội"
+        },
+        {
+            "id": 2,
+            "name": "Trần Thị B",
+            "gender": 0,
+            "email": "ttb@gmail.com",
+            "address": "Hải Phòng"
+        },
+        {
+            "id": 3,
+            "name": "Lê Văn C",
+            "gender": 1,
+            "email": "lvc@gmail.com",
+            "address": "Đà Nẵng"
+        },
+        {
+            "id": 4,
+            "name": "Phạm Thị D",
+            "gender": 0,
+            "email": "ptd@gmail.com",
+            "address": "Huế"
+        },
+        {
+            "id": 5,
+            "name": "Hoàng Văn E",
+            "gender": 1,
+            "email": "hve@gmail.com",
+            "address": "Quảng Ninh"
+        },
+        {
+            "id": 6,
+            "name": "Ngô Thị F",
+            "gender": 0,
+            "email": "ntf@gmail.com",
+            "address": "Nha Trang"
+        },
+        {
+            "id": 7,
+            "name": "Vũ Văn G",
+            "gender": 1,
+            "email": "vvg@gmail.com",
+            "address": "Hải Dương"
+        },
+        {
+            "id": 8,
+            "name": "Đỗ Thị H",
+            "gender": 0,
+            "email": "dth@gmail.com",
+            "address": "Bắc Ninh"
+        },
+        {
+            "id": 9,
+            "name": "Bùi Văn I",
+            "gender": 1,
+            "email": "bvi@gmail.com",
+            "address": "Thái Bình"
+        },
+        {
+            "id": 10,
+            "name": "Phan Thị K",
+            "gender": 0,
+            "email": "ptk@gmail.com",
+            "address": "Vĩnh Phúc"
+        }
+    ]
+}
